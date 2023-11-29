@@ -1,0 +1,3 @@
+flask
+openai
+werkzeug===2.2.2
